@@ -9,6 +9,6 @@ Original file is located at
 
 while True:
     masukan = input('Apakah kamu cinta padaku ? ')
-    if masukan.lower() in ('ya','iya','y'):
+    if masukan.lower() in ('ya','iya','y','pasti','tentu','tentu saja','yup','yes'):
         break
 print('I Love You Too!')
